@@ -1,0 +1,15 @@
+/Users/betsybryant/Desktop/MIS221/bonus-lab/obj/Debug/net5.0/bonus-lab.csproj.AssemblyReference.cache
+/Users/betsybryant/Desktop/MIS221/bonus-lab/obj/Debug/net5.0/bonus-lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/betsybryant/Desktop/MIS221/bonus-lab/obj/Debug/net5.0/bonus-lab.AssemblyInfoInputs.cache
+/Users/betsybryant/Desktop/MIS221/bonus-lab/obj/Debug/net5.0/bonus-lab.AssemblyInfo.cs
+/Users/betsybryant/Desktop/MIS221/bonus-lab/obj/Debug/net5.0/bonus-lab.csproj.CoreCompileInputs.cache
+/Users/betsybryant/Desktop/MIS221/bonus-lab/bin/Debug/net5.0/bonus-lab.deps.json
+/Users/betsybryant/Desktop/MIS221/bonus-lab/bin/Debug/net5.0/bonus-lab.runtimeconfig.json
+/Users/betsybryant/Desktop/MIS221/bonus-lab/bin/Debug/net5.0/bonus-lab.runtimeconfig.dev.json
+/Users/betsybryant/Desktop/MIS221/bonus-lab/bin/Debug/net5.0/bonus-lab.dll
+/Users/betsybryant/Desktop/MIS221/bonus-lab/bin/Debug/net5.0/ref/bonus-lab.dll
+/Users/betsybryant/Desktop/MIS221/bonus-lab/bin/Debug/net5.0/bonus-lab.pdb
+/Users/betsybryant/Desktop/MIS221/bonus-lab/obj/Debug/net5.0/bonus-lab.dll
+/Users/betsybryant/Desktop/MIS221/bonus-lab/obj/Debug/net5.0/ref/bonus-lab.dll
+/Users/betsybryant/Desktop/MIS221/bonus-lab/obj/Debug/net5.0/bonus-lab.pdb
+/Users/betsybryant/Desktop/MIS221/bonus-lab/obj/Debug/net5.0/bonus-lab.genruntimeconfig.cache
